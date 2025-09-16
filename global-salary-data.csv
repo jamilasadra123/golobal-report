@@ -1,0 +1,16 @@
+Job,Country,Average Salary (USD),Source
+Mobile Developer,United States,122000,Glassdoor / Payscale
+Mobile Developer,Germany,60000,SalaryExplorer
+Mobile Developer,Canada,80000,Payscale
+Mobile Developer,Australia,85000,Indeed
+Mobile Developer,India,12000,Payscale
+Cybersecurity Analyst,United States,110000,BLS / Glassdoor
+Cybersecurity Analyst,Germany,52000,SalaryExpert
+Cybersecurity Analyst,Canada,78000,Payscale
+Cybersecurity Analyst,Australia,95000,Indeed
+Cybersecurity Analyst,India,10000,Payscale
+UX Designer,United States,124000,Glassdoor
+UX Designer,Germany,56000,SalaryExpert
+UX Designer,Canada,70000,Payscale
+UX Designer,Australia,83000,Indeed
+UX Designer,India,9000,Payscale
